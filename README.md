@@ -1,6 +1,11 @@
-Personal Preference Differences
+The only thing of note for this challenge are the slight differences in the visuals. 
 
-List of visual differences in the report because I like it that way.
 
-Mouse Timepoints Per Drug Regimen Bar Charts Drug Regimen left in alphabetical order 
-Distribution of Female vs Male Mice Pie Chart startangle is 140
+I was under the impression that as long as the data was correct, changing the format in a way that doesn't change the data is acceptable. 
+
+Thus the color, order, size, and angles of the output are slightly different from the answer examples due to personal preferences. 
+
+For example, I added grids to the scatterplots because I believe it provides better data readability. 
+
+Thank you
+Danita Charles
